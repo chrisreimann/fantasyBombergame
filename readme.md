@@ -8,4 +8,4 @@ These are the scripts used to make a fantasy themed bomberman-like minigame. It 
 ![](Examples/general_gameplay.gif)
 
 ## Knight Ability:
-![](Examples/ability_knight_gif)
+![](Examples/ability_knight.gif)
